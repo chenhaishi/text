@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             string aa = "aaa";
+            string cc = "bbb";
             return View();
         }
 
